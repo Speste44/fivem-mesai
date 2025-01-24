@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "spestedev",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^14.17.3",
+    "resthaven": "^0.0.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
